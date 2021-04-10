@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b6ec12c-4ad4-4d0b-877e-aff72ec80e8d" name="Default Changelist" comment="" />
+    <list default="true" id="9b6ec12c-4ad4-4d0b-877e-aff72ec80e8d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,7 +206,7 @@
       <workItem from="1617874171694" duration="386000" />
       <workItem from="1617874581109" duration="2053000" />
       <workItem from="1617877099043" duration="14906000" />
-      <workItem from="1617945342114" duration="22337000" />
+      <workItem from="1617945342114" duration="22905000" />
     </task>
     <servers />
   </component>
@@ -267,5 +269,9 @@
       <screen x="0" y="0" width="1920" height="999" />
     </state>
     <state x="799" y="200" key="SettingsEditor/0.0.1920.999@0.0.1920.999" timestamp="1617982026318" />
+    <state x="690" y="233" key="Vcs.Push.Dialog.v2" timestamp="1617982477132">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="690" y="233" key="Vcs.Push.Dialog.v2/0.0.1920.999@0.0.1920.999" timestamp="1617982477132" />
   </component>
 </project>
